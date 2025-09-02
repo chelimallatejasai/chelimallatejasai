@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi there 👋<br><br><br>Here are some ideas to get you started:<br><br>- 🔭 I’m currently working on Data Structures Using Python<br>- 🌱 I’m currently learning Django<br>- 👯 I’m looking to collaborate on Django<br>- 🤔 I’m looking for help with FullStack Development<br>- 💬 Ask me about Data Structures Using Python<br>- 📫 How to reach me: tejasaiaa12@gmail.com
+Hi there 👋
+# 💫 About Me  
+🔹 Passionate *Full-Stack Developer* with a strong foundation in *Data Structures & Algorithms (Python)*.  
+🔹 Exploring the intersection of *Backend (Django, REST APIs)* and *Frontend (React, TailwindCSS)* to build scalable products.  
+🔹 Enthusiastic about *system design, clean code, and high-performance applications*.  
+🔹 Strong problem-solving mindset with hands-on development experience.  
+🔹 Open to opportunities in *Product-Based Companies | Software Development | Full-Stack Engineering*.
 
 
 ## 🌐 Socials:
