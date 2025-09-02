@@ -1,5 +1,7 @@
 # 💫 About Me:
+
 Hi there 👋
+<br>
 🔹 Passionate *Full-Stack Developer* with a strong foundation in *Data Structures & Algorithms (Python)*.  
 🔹 Exploring the intersection of *Backend (Django, REST APIs)* and *Frontend (React, TailwindCSS)* to build scalable products.  
 🔹 Enthusiastic about *system design, clean code, and high-performance applications*.  
